@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63f9f5098c289e441958a97a76950bf2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Turntable/GameObject.controller
+  uploadId: 655487

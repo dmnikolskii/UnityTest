@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84c220c2122170043a5771510a89efca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/Outline/OutlinePostProfile.asset
+  uploadId: 425727

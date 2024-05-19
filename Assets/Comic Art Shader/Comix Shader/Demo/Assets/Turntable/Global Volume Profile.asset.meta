@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe279b21f7c44594bab3437ada6c9f14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Turntable/Global Volume
+    Profile.asset
+  uploadId: 655487

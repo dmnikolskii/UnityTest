@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7326b4fe8c1ef6741baef324738c3464
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/Outline/Outline.shader
+  uploadId: 425727

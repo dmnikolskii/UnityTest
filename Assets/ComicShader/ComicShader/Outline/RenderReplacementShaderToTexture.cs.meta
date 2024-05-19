@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8164a1de0c7824439b2886352e0e3bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/Outline/RenderReplacementShaderToTexture.cs
+  uploadId: 425727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45f4e938345ece94a82adffc9aeca594
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Weapon Set/Comix Bat.mat
+  uploadId: 655487

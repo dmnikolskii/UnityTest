@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  isUnlocked: 0
+  levelID: 15
+  levelName: blur
+  soundCaption: LevelSelect
+  chapterName: Lava Mountain
+  paralax_layer:
+  - {fileID: 21300000, guid: 1893f75fd8e6c374c899653180156bba, type: 3}
+  - {fileID: 21300000, guid: 9ec5cdd1d9a7e014da99a4d2c4e1a101, type: 3}
+  - {fileID: 21300000, guid: 3d20e1cdfe0354f40a70c356ac2c78b4, type: 3}
+  - {fileID: 21300000, guid: 22faeff81c318bf4b8a1b59ba91ff286, type: 3}
+  - {fileID: 21300000, guid: 8c3e9c0b891c22b449f5eed7464cfc66, type: 3}
+  - {fileID: 21300000, guid: e108cd3a6e20c0a4c9d2559f93163226, type: 3}

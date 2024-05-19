@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  isUnlocked: 1
+  levelID: 5
+  levelName: no blur
+  soundCaption: LevelSelect
+  chapterName: Forest
+  paralax_layer:
+  - {fileID: 21300000, guid: 827671b799cef4b48a8ae768dfe98363, type: 3}
+  - {fileID: 21300000, guid: 5b7a3188e6f6a684c9587beb06342977, type: 3}
+  - {fileID: 21300000, guid: 95c8fc4708cca5f45ba3bbaa6c865e2e, type: 3}
+  - {fileID: 21300000, guid: 4520e38043f5e2e4f8a63daacbc09f85, type: 3}
+  - {fileID: 21300000, guid: d812c095fdd9cc54ba55d8c50834dcc0, type: 3}
+  - {fileID: 21300000, guid: 214ac643b9492864983330550e91b7e1, type: 3}

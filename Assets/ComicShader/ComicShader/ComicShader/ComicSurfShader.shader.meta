@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3b797a41ebf2c2440bb78c9e1c0d68fa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _WShadow: {instanceID: 0}
+  - _HatchTex1: {fileID: 2800000, guid: f33d42dc96d3d5a4db8d840ebfd170f4, type: 3}
+  - _HatchTex2: {fileID: 2800000, guid: 5282ee9baa0959343a04674fa849826c, type: 3}
+  - _Mask: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/ComicShader/ComicSurfShader.shader
+  uploadId: 425727

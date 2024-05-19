@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 16
+  m_EditorClassIdentifier: 
+  isUnlocked: 0
+  levelID: 16
+  levelName: blur
+  soundCaption: LevelSelect
+  chapterName: Snow Mountain
+  paralax_layer:
+  - {fileID: 21300000, guid: a8210c3f8a81bb94db537f337a38ab3d, type: 3}
+  - {fileID: 21300000, guid: 4881e35d90312aa4e87d115f7c1ef4db, type: 3}
+  - {fileID: 21300000, guid: 64f49f2a805725e45ab7dd7b606a7e5a, type: 3}
+  - {fileID: 21300000, guid: 25488de66744e134d99636fe0443fbe7, type: 3}
+  - {fileID: 21300000, guid: cedb18a660c25304e8cb6c750a241291, type: 3}
+  - {fileID: 21300000, guid: afd7ba40b668fb74cafe78b8e9daf756, type: 3}

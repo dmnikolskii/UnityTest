@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  isUnlocked: 0
+  levelID: 9
+  levelName: blur
+  soundCaption: LevelSelect
+  chapterName: Field
+  paralax_layer:
+  - {fileID: 21300000, guid: 09212ff2fd32e774a9fc1411a0a44c6d, type: 3}
+  - {fileID: 21300000, guid: a9dc7a6efba08e24ca7b077978d694a7, type: 3}
+  - {fileID: 21300000, guid: 193ebed4d91186646bb9475f66ffec2e, type: 3}
+  - {fileID: 21300000, guid: af32dc88370ce05409da4cb624f8f50e, type: 3}
+  - {fileID: 21300000, guid: 80e9a05a46b30e34497e661b39a22ddd, type: 3}
+  - {fileID: 21300000, guid: bb3967c4ddddaad459e72c5b26645975, type: 3}

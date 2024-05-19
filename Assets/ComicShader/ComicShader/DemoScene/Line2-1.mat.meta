@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27bc886586dfec74690cb26023e05588
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/DemoScene/Line2-1.mat
+  uploadId: 425727

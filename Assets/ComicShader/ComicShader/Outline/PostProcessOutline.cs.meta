@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 80e3111086a328a4882e173a46656a13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/Outline/PostProcessOutline.cs
+  uploadId: 425727

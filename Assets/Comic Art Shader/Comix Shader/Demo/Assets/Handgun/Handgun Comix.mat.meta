@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df65ba60d14764340a0e9d9ec8fe7dfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Handgun/Handgun Comix.mat
+  uploadId: 655487

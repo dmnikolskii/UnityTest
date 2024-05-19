@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  isUnlocked: 1
+  levelID: 4
+  levelName: no blur
+  soundCaption: LevelSelect
+  chapterName: Desert
+  paralax_layer:
+  - {fileID: 21300000, guid: d784875acaa37b942a4f940a42513e2e, type: 3}
+  - {fileID: 21300000, guid: ae24384bf83ac11439062187499f207d, type: 3}
+  - {fileID: 21300000, guid: 91d57ba3ea36e5c44ad5b2a6be334173, type: 3}
+  - {fileID: 21300000, guid: 5a615462324ce144ebd36d23166c62d7, type: 3}
+  - {fileID: 21300000, guid: 6a90692aa7bab0043a82617ef4586dda, type: 3}
+  - {fileID: 21300000, guid: 808b1dade80776a41a79a96ef205e8aa, type: 3}

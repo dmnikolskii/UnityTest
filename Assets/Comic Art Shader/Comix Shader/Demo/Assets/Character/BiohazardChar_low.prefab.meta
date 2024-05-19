@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 695219f569e78a8449c78d5919c9fc5b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Character/BiohazardChar_low.prefab
+  uploadId: 655487

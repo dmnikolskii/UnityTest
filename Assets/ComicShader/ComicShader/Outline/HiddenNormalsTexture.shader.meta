@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49f5c7f44a7a7474a9f630aa9a1b03ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183504
+  packageName: Comic Shader
+  packageVersion: 1.01
+  assetPath: Assets/ComicShader/ComicShader/Outline/HiddenNormalsTexture.shader
+  uploadId: 425727

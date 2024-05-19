@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d844b91cd81cc7d4ba91738078a1b87f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Background/background.prefab
+  uploadId: 655487

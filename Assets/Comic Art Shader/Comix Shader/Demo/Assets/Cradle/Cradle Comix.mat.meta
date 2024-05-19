@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d8bc3cce159e68418b5ce3964dff9b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268947
+  packageName: Comix | Comics Shader for URP
+  packageVersion: 1.1
+  assetPath: Assets/Comic Art Shader/Comix Shader/Demo/Assets/Cradle/Cradle Comix.mat
+  uploadId: 655487

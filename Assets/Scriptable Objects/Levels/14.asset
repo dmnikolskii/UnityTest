@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeae8858d089c2442b0721441d2b1a7d, type: 3}
+  m_Name: 14
+  m_EditorClassIdentifier: 
+  isUnlocked: 0
+  levelID: 14
+  levelName: blur
+  soundCaption: LevelSelect
+  chapterName: Lava Cave
+  paralax_layer:
+  - {fileID: 21300000, guid: 83d6c49955c5603409be75dd325b7305, type: 3}
+  - {fileID: 21300000, guid: 3262d8a89e37e7b4888f7dc7a1f4a094, type: 3}
+  - {fileID: 21300000, guid: 4e03537e9e48c364f9f4436093e5e14b, type: 3}
+  - {fileID: 21300000, guid: 4ad83b2fe0009c04b8abddfd072b47ce, type: 3}
+  - {fileID: 21300000, guid: fd1cef3dfa8f42b4191b6fdfecef92d2, type: 3}
+  - {fileID: 21300000, guid: 74b473c8a3b691b4cb71eee17e1d424a, type: 3}
