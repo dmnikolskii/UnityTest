@@ -1,0 +1,4 @@
+numpy>=2.0
+gymnasium>=0.29
+# Install PyTorch separately. On Python 3.13 you may need nightly wheels.
+# Example (CPU): pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cpu
